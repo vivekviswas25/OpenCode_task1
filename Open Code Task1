@@ -1,0 +1,59 @@
+Difference between Git and GitHub?
+Answer:- Git:- 1) Git is basically a open source distributeb version-control system.
+               When a team works on real-life projects, git helps ensure no code conflicts between the developers.
+               Furthermore we can add on or often change the project requirements.
+               The concept of branching allows several projects to run in the same codebase.
+         
+      GitHub:- GitHub is in name itself says that its a HUB or projects or communities etc., GitHub is simply a Git repository hosting service that 
+               provides a web-based graphical interface.
+               GitHub repositories can be made public or private based on the secirity of an organisation.
+               All the documents and codes are placed in one repository so it makes easy code hosting.
+               GitHub has a feature of pull requests and issues in which all the developers can stay on the same page and organize.
+               
+               
+              
+Explain very briefly any 5 basic git commands.
+                  
+              git config
+Usage: git config –global user.name “[name]”
+
+Usage: git config –global user.email “[email address]”
+
+This command sets the author name and email address respectively to be used with your commits.
+
+
+              git init
+     Usage: git init [repository name]
+
+    This command is used to start a new repository.
+    
+    
+             git clone
+     Usage: git clone [url]
+
+   This command is used to obtain a repository from an existing URL.
+   
+   
+   
+             git add
+     Usage: git add [file]
+
+  This command adds a file to the staging area.
+  
+  
+             git commit
+Usage: git commit -m “[ Type in the commit message]”
+
+This command records or snapshots the file permanently in the version history.
+
+
+How to make a Pull Request?
+
+
+Once WE've committed changes to our local copy of the repository, click the Create Pull Request icon.
+Check that the local branch and repository we're merging from, and the remote branch and repository we're merging into, are correct. Then give the pull request a title and a description.
+Click Create.
+
+
+
+
